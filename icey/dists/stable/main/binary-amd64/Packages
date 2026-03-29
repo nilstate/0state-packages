@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: 0state <oss@0state.com>
 Depends: ffmpeg, libssl3, libc6, libstdc++6
 Filename: pool/main/i/icey-server/icey-server_0.1.0_amd64.deb
-Size: 1335164
-MD5sum: 781fba6a560611744007d8914d002879
-SHA1: c93c3e9134e3551a2310ccc8e9c4fb0370862ec6
-SHA256: 9087d37d01525ea4854025ca96a6080ac683d0ad1134c880c6699f37df33fece
+Size: 1333606
+MD5sum: b6ca713a7bc20665e9ede0859cecfb25
+SHA1: c8437b294224e4467f4b4521ecc2110349fae697
+SHA256: 2c3ae1a1ba73ab1100e5fac580ef7b78e0e169a26b480912f933ecba0388dbdc
 Section: net
 Priority: optional
 Homepage: https://github.com/nilstate/icey-cli

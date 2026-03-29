@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: icey-server APT repository
-Date: Sun, 29 Mar 2026 11:35:13 +0000
+Date: Sun, 29 Mar 2026 11:42:16 +0000
 MD5Sum:
- c29543e8a09bff6a066c532f4bc2d668 624 main/binary-amd64/Packages
- 0ef3d0a10a61980995aa63f821bec4cd 460 main/binary-amd64/Packages.gz
+ 0f05a9da75531a1c51fb042da9d96780 624 main/binary-amd64/Packages
+ 4abb469a8e389f12ed670dab10fe9bd8 460 main/binary-amd64/Packages.gz
 SHA256:
- 02680d14666a91c63f3813046cc60f1971959d6faba2db7c0fb36798f619189d 624 main/binary-amd64/Packages
- ccc6caa4e079a021ac79b953b77095930371264719be0e7fa2dace6dfa64e65b 460 main/binary-amd64/Packages.gz
+ f86605f1ef029135e7d99c88fab4ce9141a446655feaa77953adb2e0f9d3e160 624 main/binary-amd64/Packages
+ 680069868fe71b766f6047e26baaf2232f524d66c1e000049e14db955e953cb3 460 main/binary-amd64/Packages.gz
