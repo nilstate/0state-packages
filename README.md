@@ -1,4 +1,4 @@
-# icey-packages
+# 0state-packages
 
 Static package repositories for Icey distributions.
 
