@@ -10,9 +10,15 @@
       <h1>Icey APT Repository</h1>
       <p>This path hosts the static APT repository for <code>icey-server</code>.</p>
       <p>Canonical base URL: <code>https://apt.0state.com/icey</code></p>
-      <p>The repository is published, but no signing key was bundled with this build.</p>
+      <p>Install the signing key:</p>
+      <pre><code>curl -fsSL https://apt.0state.com/icey/icey-archive-keyring.gpg | sudo tee /usr/share/keyrings/icey-archive-keyring.gpg >/dev/null</code></pre>
+      <p>Add the repository:</p>
+      <pre><code>curl -fsSL https://apt.0state.com/icey/icey-server.list | sudo tee /etc/apt/sources.list.d/icey-server.list >/dev/null
+sudo apt update</code></pre>
       <ul>
         <li><a href="./icey-server.list">icey-server.list</a></li>
+        <li><a href="./icey-archive-keyring.gpg">icey-archive-keyring.gpg</a></li>
+        <li><a href="./icey-archive-keyring.asc">icey-archive-keyring.asc</a></li>
       </ul>
     </main>
   </body>
